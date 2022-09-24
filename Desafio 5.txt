@@ -1,0 +1,13 @@
+
+SQL - relacional, horizontal, agrupar em tabelas, persistencia de dados.
+NoSQL - não relacional, vertical, grande volume de dados, é uma solução alternativa complementar para atender o que não é possivel no sql. Ainda não há suporte
+ao ACID (Atomicity, Consistency, Isolation, Durability) como no SQL.
+Tipos: Chave-valor; Colunar; Grafo; Documento.	
+
+
+ETL é um tipo de data integration em três etapas (extração, transformação, carregamento) usado para combinar dados de diversas fontes. O engenheiro coleta, prepara,
+ deixa disponivel a informação para cientistas utilizarem, ele é reponsavel pela manipulação dos dados, conhecimento das ferramentas e
+ também transforma a informação para deixar na camada correta para utilização do cientista por exemplo.
+
+Um DataLake é um repositório centralizado que permite armazenar todos os seus dados estruturados e não estruturados em qualquer escala.
+O Databricks é uma plataforma de análise de dados unificada para engenharia de dados, machine learning e ciência de dados colaborativa.
